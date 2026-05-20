@@ -1,6 +1,4 @@
 # PAULA-tfm-galaxy10-deit-tiny
-Aquí tienes el README para tu parte de DeiT-Tiny, con el mismo estilo que el de tu compañera pero adaptado a tu implementación:
-TFM - DeiT-Tiny para clasificación morfológica de galaxias
 
 Repositorio individual con el código correspondiente a la solución basada en DeiT-Tiny con ajuste fino desarrollada para el Trabajo Fin de Máster titulado "Comparativa de modelos de aprendizaje automático y profundo para la clasificación morfológica de galaxias".
 Descripción
